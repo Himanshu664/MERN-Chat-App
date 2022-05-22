@@ -9,7 +9,6 @@
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
